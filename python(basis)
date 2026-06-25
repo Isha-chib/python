@@ -1,0 +1,35 @@
+# Write a frist programm in python..
+print("hello  world")
+hello world 
+ # addition of two numbers 
+a = 6
+b = 4
+print("addition:",a+b)
+10
+# sub of two numbers 
+a = 6
+b = 4
+print("addition:",a-b)
+2
+# division of two  numbers
+a = 4
+b = 2
+print("addition:",a/b)
+2
+#multiplication of two numbers 
+a = 6
+b = 4
+print("addition:",a*b)
+24
+# input from user 
+a = int(input("enter first number:"))
+b = int(input("enter second number:"))
+c = a + b
+print("addition:",c)
+
+enter first number:2
+enter second number :3
+addition : 5
+
+
+
